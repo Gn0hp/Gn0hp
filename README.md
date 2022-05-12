@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Gn0hp from Vietnam
-- 👀 Currently I’m a third-year student in PTIT Institute
-- 🌱 I’m interested and now trying to learn things related to Blockchain
-- 💞️ I’m looking for an internship position or a job if possible
 - 📫 How to reach me : gn0hp289@gmail.com
 
 <!---
