@@ -1,3 +1,4 @@
+[![Gn0hp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0hp)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Gn0hp from Vietnam
 - 📫 How to reach me : gn0hp289@gmail.com
 
