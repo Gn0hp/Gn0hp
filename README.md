@@ -2,7 +2,6 @@
 - 📫 How to reach me : gn0hp289@gmail.com
 
 ![Gn0hp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0hp&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gn0hp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Gn0hp/Gn0hp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
