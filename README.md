@@ -1,4 +1,4 @@
-[![Gn0hp's GitHub stats](https://www.facebook.com/Gnoh.P1t/](https://github.com/anuraghazra/github-readme-stats&&theme=radical)
+![Gn0hp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gn0hp&show_icons=true&theme=radical)
 - 👋 Hi, I’m @Gn0hp from Vietnam
 - 📫 How to reach me : gn0hp289@gmail.com
 
